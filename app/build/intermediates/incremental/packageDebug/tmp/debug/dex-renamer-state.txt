@@ -1,0 +1,4 @@
+#Tue Apr 26 23:48:08 CEST 2022
+base.0=/home/marcos/DocumentosEnMEGA/FORMACION_PROPIA_CURSOS/1_ANDROID/work_space_AndroidStudio/EliminarNumerosFueraDeMedia/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

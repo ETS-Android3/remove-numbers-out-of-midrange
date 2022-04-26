@@ -1,0 +1,6 @@
+com/mundobinario/eliminarnumerosfuerademedia/BuildConfig.java
+ com.mundobinario.eliminarnumerosfuerademedia.BuildConfig
+com/mundobinario/eliminarnumerosfuerademedia/MainActivity.java
+ com.mundobinario.eliminarnumerosfuerademedia.MainActivity
+ com.mundobinario.eliminarnumerosfuerademedia.MainActivity$1
+ com.mundobinario.eliminarnumerosfuerademedia.MainActivity$2
